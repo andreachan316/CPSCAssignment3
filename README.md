@@ -31,4 +31,4 @@ Here are three possible hypotheses that we can define with this dataset:
 
 **Who maintains and contributes to the project?**
 
-I wil maintain and contribute to ths project.
+I often maintain and contribute to ths project when necessary.
