@@ -39,5 +39,10 @@ Users/ Readers can raise their questions or doubts whatever possible.
 I often maintain and contribute to this project when necessary.
 
 
+
+
+
+
+
 **Bibliography**
 https://www.kaggle.com/c/titanic
