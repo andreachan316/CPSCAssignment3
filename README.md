@@ -22,17 +22,21 @@ Here are three possible hypotheses that we can define with this dataset:
 
 The Dataset was given and we need to download the titanic.csv file from our assignment folder. 
 
+
 **Why the project is useful?**
 
 This project provides information on the fate of passengers on the Titanic, summarized according to economic status (Pclass), gender, age versus survival rate whether it's correlated.
+
 
 **How users can get started with the project?**
 
 Understand the background, followed by the series of analysis by using pythons and coding to find the figure statistically.
 
+
 **Where users can get help with your project?**
 
 Users/ Readers can raise their questions or doubts whatever possible.
+
 
 **Who maintains and contributes to the project?**
 
