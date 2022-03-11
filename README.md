@@ -12,9 +12,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-
-The Dataset was given and we need to download the titanic.csv file from our assignment folder. 
+In this challenge, we build a predictive model that answers the question: “what sorts of people were more likely to survive?” By using passenger data (i e name, age, gender, socio-economic class, etc).
 
 Here are three possible hypotheses that we can define with this dataset:
 
@@ -22,24 +20,23 @@ Here are three possible hypotheses that we can define with this dataset:
 2. Determine if the survival rate is associated to the gender
 3. Determine the survival rate is associated to the age
 
+The Dataset was given and we need to download the titanic.csv file from our assignment folder. 
+
 **Why the project is useful?**
 
-This project is
-
+This project provides information on the fate of passengers on the Titanic, summarized according to economic status (Pclass), gender, age versus survival rate whether it's correlated.
 
 **How users can get started with the project?**
 
-
-
+Understand the background, followed by the series of analysis by using pythons and coding to find the figure statistically.
 
 **Where users can get help with your project?**
 
-
-
+Users/ Readers can raise their questions or doubts whatever possible.
 
 **Who maintains and contributes to the project?**
 
-I often maintain and contribute to ths project when necessary.
+I often maintain and contribute to this project when necessary.
 
 
 **Bibliography**
