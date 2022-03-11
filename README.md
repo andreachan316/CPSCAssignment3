@@ -14,10 +14,19 @@ Here are three possible hypotheses that we can define with this dataset:
 
 
 
-Why the project is useful
+**Why the project is useful?**
+
+
+**How users can get started with the project?**
 
 
 
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+
+**Where users can get help with your project?**
+
+
+
+
+**Who maintains and contributes to the project?**
+
+I wil maintain and contribute to ths project.
