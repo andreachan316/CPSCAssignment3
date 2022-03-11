@@ -2,10 +2,11 @@
 
 **What the project does?**
 
-This project was doing prediction of 
+This project was doing prediction of survival rate on the Titanic by using pythons.
 
-Background & Challenge
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+***Background & Challenge
+
+_The_ sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 
@@ -39,3 +40,7 @@ This project is
 **Who maintains and contributes to the project?**
 
 I often maintain and contribute to ths project when necessary.
+
+
+**Bibliography**
+https://www.kaggle.com/c/titanic
